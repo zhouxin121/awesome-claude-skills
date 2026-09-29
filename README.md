@@ -201,7 +201,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [Tailored Resume Generator](./tailored-resume-generator/) - Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances.
 - [ship-learn-next](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/ship-learn-next) - Skill to help iterate on what to build or learn next, based on feedback loops.
 - [tapestry](https://github.com/michalparkola/tapestry-skills-for-claude-code/tree/main/tapestry) - Interlink and summarize related documents into knowledge networks.
-
+- [Project Cross Migration](https://github.com/zhouxin121/project-cross-migration-free) - Migrate an agent's full project state (conversations, memory, persona, tools, environment) across frameworks or machines with five-layer backup/restore. 1,418-message real migration verified on Claude Code / Codex / OpenClaw. Python stdlib only, MIT. *By [@zhouxin121](https://github.com/zhouxin121)*
 ### Collaboration & Project Management
 
 - [git-pushing](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/engineering-workflow-plugin/skills/git-pushing) - Automate git operations and repository interactions.
